@@ -1,0 +1,4 @@
+readings.json
+./readings.json
+*.json
+/.venv
